@@ -1,0 +1,28 @@
+#elsoKep {
+    max-width: 2000px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 200px;
+    width: 650px;
+    height: 300px;
+}
+
+#arrow {
+    max-width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1100px;
+    padding-bottom: 135px;
+    display: flex
+}
+
+#arrow2 {
+    max-width: 50px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -175px;
+    padding-left: 600px;
+    padding-bottom: -50px;
+    transform: rotate(0.5turn);
+}
